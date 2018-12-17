@@ -14,3 +14,4 @@
 
 1. 发送邮件：sendMail.scpt
 2. 发送iMessage：sendMessage.scpt
+3. 打开当前鼠标选中的文件夹：openSelectedFolder.scpt
